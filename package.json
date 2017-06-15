@@ -1,0 +1,47 @@
+{
+  "name": "react-flux-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial built using reactjs and flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-vnwaiwu/react-flux-tutorial.git"
+  },
+  "keywords": [
+    "Flux",
+    "reactjs",
+    "javascript",
+    "gulp",
+    "browserify"
+  ],
+  "author": "Victor Nwaiwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-vnwaiwu/react-flux-tutorial/issues"
+  },
+  "homepage": "https://github.com/andela-vnwaiwu/react-flux-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browserify": "^14.4.0",
+    "dotenv": "^4.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.1.0",
+    "flux": "^3.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^4.0.0",
+    "gulp-open": "^2.0.0",
+    "jquery": "^3.2.1",
+    "react": "^15.6.1",
+    "react-router": "^4.1.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
